@@ -1,7 +1,10 @@
+ext.kotlin_version = '1.8.10'
+
 allprojects {
     repositories {
         google()
         mavenCentral()
+        maven { url "https://github.com/transistorsoft/background-fetch/releases" }
     }
 }
 
