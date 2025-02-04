@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237066009333",
+    "project_id": "ttconsultant-d630a",
+    "storage_bucket": "ttconsultant-d630a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237066009333:android:877d035e55494fb87f63bc",
+        "android_client_info": {
+          "package_name": "com.example.ttconsultants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOovW7b92fpdm2rhgZewEEj46pG0PmF0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
